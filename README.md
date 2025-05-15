@@ -15,8 +15,15 @@
 ---
 
 ### 🧑‍💻 About Me
+
 🎓 I'm a final year IT student passionate about web development, data analysis, and creating impactful digital solutions.  
 🛠️ Skilled in the MERN stack, Power BI, MySQL, and more.
+
+💡 I’m an aspiring software developer with a passion for web development and a strong foundation in Data Structures and Algorithms. I have hands-on experience building web applications and am constantly looking to improve my skills.
+
+📚 My problem-solving journey has led me to solve over 120 coding problems on GeeksforGeeks under the handle `rishikannaaa`, where I’ve honed my abilities in tackling Easy and Medium-level challenges. These experiences have not only improved my algorithmic thinking but also deepened my understanding of data structures.
+
+🎯 I’m eager to apply my technical skills in a challenging software development role, where I can continue to grow and contribute effectively.
 
 ---
 
@@ -39,9 +46,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
-![Power BI](https://img.shields.io/badge/-PowerBI-yellow?style=flat-square&logo=powerbi)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
+![Power BI](https://img.shields.io/badge/-PowerBI-yellow?style=flat-square&logo=powerbi)
+![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
 
 ---
 
@@ -78,4 +86,3 @@
 ### 🧠 Fun Fact
 
 🌟 I love solving real-world problems and converting ideas into code. I also enjoy helping friends debug — sometimes more than writing my own code!
-
