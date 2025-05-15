@@ -1,5 +1,11 @@
 <h1 align="center">Hi, I'm Rishi Kanna</h1>
 
+<p align="center">
+I am a skilled website developer with a strong foundation in data structures and algorithms, demonstrated by solving over 120 problems on GeeksforGeeks. Passionate about learning and adapting to new technologies, I continuously strive to enhance my technical expertise.
+</p>
+
+---
+
 ### Contact Me:
 - Email: rishi@example.com
 - LinkedIn: [Rishi Kanna](https://www.linkedin.com/in/your-profile)
