@@ -8,9 +8,9 @@
 ---
 
 ### 📫 Contact Me
-- 📧 Email: rishi@example.com  
-- 💼 LinkedIn: [Rishi Kanna](https://www.linkedin.com/in/your-profile)  
-- 🌐 Portfolio: [rishikanna.dev](https://rishikanna.dev)  
+- 📧 Email: rishikanna.sivakumar.off@gmail.com  
+- 💼 LinkedIn: [Rishi Kanna](https://www.linkedin.com/in/rishi-kanna-sivakumar-2770a1248/)  
+- 🌐 Portfolio: [rishi-portfolio.tiiny.site](https://rishi-portfolio.tiiny.site/)  
 
 ---
 
