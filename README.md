@@ -75,6 +75,17 @@
 
 ---
 
+### 🧮 LeetCode Progress
+
+<p align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=flexrishi&theme=Dark" alt="LeetCode Stats Card" />
+  <br><br>
+  📍 LeetCode Handle: <code>flexrishi</code><br>
+  🧠 Actively solving DSA problems — focused on mastering Easy and Medium levels.
+</p>
+
+---
+
 ### 📈 GitHub Activity Graph
 
 <p align="center">
